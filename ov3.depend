@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1455179953 source:/home/egorka/CBovr/ov3/main.cpp
+	"include/adl_sdk.h"
+	<dlfcn.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	<tchar.h>
+	"include/adl_sdk.h"
+	<stdio.h>
+
+1454672754 /home/egorka/CBovr/ov3/include/adl_sdk.h
+	"adl_structures.h"
+
+1454672756 /home/egorka/CBovr/ov3/include/adl_structures.h
+	"adl_defines.h"
+
+1450891434 /home/egorka/CBovr/ov3/include/adl_defines.h
+
+1455179953 source:/home/egorka/ovr_CodeBlock/ov3/main.cpp
+	"include/adl_sdk.h"
+	<dlfcn.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	<tchar.h>
+	"include/adl_sdk.h"
+	<stdio.h>
+
+1454672754 /home/egorka/ovr_CodeBlock/ov3/include/adl_sdk.h
+	"adl_structures.h"
+
+1454672756 /home/egorka/ovr_CodeBlock/ov3/include/adl_structures.h
+	"adl_defines.h"
+
+1450891434 /home/egorka/ovr_CodeBlock/ov3/include/adl_defines.h
+
+1456492469 source:/home/denis/dev/ov3/main.cpp
+	"include/adl_sdk.h"
+	"include/adl-func.h"
+	<dlfcn.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	<tchar.h>
+	"include/adl_sdk.h"
+	"include/adl-func.h"
+	<stdio.h>
+	<jsonrpccpp/server/connectors/httpserver.h>
+	<jsonrpccpp/client/connectors/httpclient.h>
+
+1450877034 /home/denis/dev/ov3/include/adl_sdk.h
+	"adl_structures.h"
+
+1450877034 /home/denis/dev/ov3/include/adl_structures.h
+	"adl_defines.h"
+
+1450877034 /home/denis/dev/ov3/include/adl_defines.h
+
+1456531212 /home/denis/dev/ov3/include/adl-func.h
+	"adl_sdk.h"
+	<dlfcn.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	<tchar.h>
+	"adl_sdk.h"
+	<stdio.h>
+
